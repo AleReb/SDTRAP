@@ -1,0 +1,13 @@
+*.bin
+*.elf
+*.map
+*.hex
+build/
+out/
+.DS_Store
+Thumbs.db
+hardware/kicad/*-backups/
+hardware/kicad/*.lck
+hardware/kicad/*.lck.*
+models/cache/
+models/output/
